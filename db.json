@@ -1,152 +1,124 @@
 {
   "trades": [
     {
-      "name": "deal_leg_id",
-      "value": 926639
+      "deal_leg_id": "629936",
+      "deal_leg_parent_id": null,
+      "output_id": null,
+      "output_api_id": null,
+      "venue": "GLACE",
+      "venue_platform": "FIX",
+      "unique_venue_id": "2020-08-06_1039061_5314706_BUY",
+      "source_id": "1039061",
+      "source_parent_id": null,
+      "trader_id": 3007,
+      "time_of_trade": "2020-08-06 11:22:50.7862880",
+      "is_buy": "true",
+      "product_id": "BOUTEILLE",
+      "volume": 50000,
+      "volume_unit": "BBL",
+      "price_per_unit": -1.21,
+      "price_unit": "BBL",
+      "currency": "USD",
+      "account": null,
+      "deal_group": null,
+      "counterparty": null,
+      "ctpty_deal_group": null,
+      "period_start": "2020-10-01",
+      "period_end": "2020-10-31",
+      "tenor": "Oct20",
+      "trade_type": null,
+      "trade_broker": null,
+      "total_brokerage": 0,
+      "brokerage_currency": "USD",
+      "upload_datetime": "2020-08-06 11:22:50.8830466",
+      "original_deal": null,
+      "output_deal_status": "not entered",
+      "paper_account": null,
+      "output_deal_error": null,
+      "output_deal": null,
+      "profit_group": null,
+      "ctpty_profit_group": null
     },
     {
-      "name": "deal_leg_parent_id",
-      "value": null
+      "deal_leg_id": "629937",
+      "deal_leg_parent_id": null,
+      "output_id": null,
+      "output_api_id": null,
+      "venue": "GLACE",
+      "venue_platform": "FIX",
+      "unique_venue_id": "2020-08-06_1039062_5314706_BUY",
+      "source_id": "1039062",
+      "source_parent_id": null,
+      "trader_id": 3007,
+      "time_of_trade": "2020-08-06 11:23:50.7862880",
+      "is_buy": "true",
+      "product_id": "FLACON",
+      "volume": 50000,
+      "volume_unit": "BBL",
+      "price_per_unit": -1.21,
+      "price_unit": "BBL",
+      "currency": "USD",
+      "account": null,
+      "deal_group": null,
+      "counterparty": null,
+      "ctpty_deal_group": null,
+      "period_start": "2020-10-01",
+      "period_end": "2020-10-31",
+      "tenor": "Oct20",
+      "trade_type": null,
+      "trade_broker": null,
+      "total_brokerage": 0,
+      "brokerage_currency": "USD",
+      "upload_datetime": "2020-08-06 11:23:50.8830466",
+      "original_deal": null,
+      "output_deal_status": "not entered",
+      "paper_account": null,
+      "output_deal_error": null,
+      "output_deal": null,
+      "profit_group": null,
+      "ctpty_profit_group": null
     },
     {
-      "name": "output_id",
-      "value": null
-    },
-    {
-      "name": "output_api_id",
-      "value": null
-    },
-    {
-      "name": "venue",
-      "value": "ICE"
-    },
-    {
-      "name": "venue_platform",
-      "value": "FIX"
-    },
-    {
-      "name": "unique_venue_id",
-      "value": "2020-08-06_1036091_5314706_BUY"
-    },
-    {
-      "name": "source_id",
-      "value": "1036091"
-    },
-    {
-      "name": "source_parent_id",
-      "value": ""
-    },
-    {
-      "name": "trader_id",
-      "value": 3007
-    },
-    {
-      "name": "time_of_trade",
-      "value": "2020-08-06 11:22:50.7862880"
-    },
-    {
-      "name": "is_buy",
-      "value": "true"
-    },
-    {
-      "name": "product_id",
-      "value": "PLACEHOLDER_jdvfofeedr"
-    },
-    {
-      "name": "volume",
-      "value": 50000
-    },
-    {
-      "name": "volume_unit",
-      "value": "BBL"
-    },
-    {
-      "name": "price_per_unit",
-      "value": -1.21
-    },
-    {
-      "name": "price_unit",
-      "value": "BBL"
-    },
-    {
-      "name": "currency",
-      "value": "USD"
-    },
-    {
-      "name": "account",
-      "value": ""
-    },
-    {
-      "name": "deal_group",
-      "value": ""
-    },
-    {
-      "name": "counterparty",
-      "value": ""
-    },
-    {
-      "name": "ctpty_deal_group",
-      "value": ""
-    },
-    {
-      "name": "period_start",
-      "value": "2020-10-01"
-    },
-    {
-      "name": "period_end",
-      "value": "2020-10-31"
-    },
-    {
-      "name": "tenor",
-      "value": "Oct20"
-    },
-    {
-      "name": "trade_type",
-      "value": ""
-    },
-    {
-      "name": "trade_broker",
-      "value": ""
-    },
-    {
-      "name": "total_brokerage",
-      "value": 0
-    },
-    {
-      "name": "brokerage_currency",
-      "value": "USD"
-    },
-    {
-      "name": "upload_datetime",
-      "value": "2020-08-06 11:22:50.8830466"
-    },
-    {
-      "name": "original_deal",
-      "value": ""
-    },
-    {
-      "name": "output_deal_status",
-      "value": "not entered"
-    },
-    {
-      "name": "paper_account",
-      "value": ""
-    },
-    {
-      "name": "output_deal_error",
-      "value": ""
-    },
-    {
-      "name": "output_deal",
-      "value": ""
-    },
-    {
-      "name": "profit_group",
-      "value": ""
-    },
-    {
-      "name": "ctpty_profit_group",
-      "value": ""
+      "deal_leg_id": "629938",
+      "deal_leg_parent_id": null,
+      "output_id": null,
+      "output_api_id": null,
+      "venue": "GLACE",
+      "venue_platform": "FIX",
+      "unique_venue_id": "2020-08-06_1039063_5314706_BUY",
+      "source_id": "1039063",
+      "source_parent_id": null,
+      "trader_id": 3007,
+      "time_of_trade": "2020-08-06 11:24:50.7862880",
+      "is_buy": "true",
+      "product_id": "CARTON",
+      "volume": 50000,
+      "volume_unit": "BBL",
+      "price_per_unit": -1.21,
+      "price_unit": "BBL",
+      "currency": "USD",
+      "account": null,
+      "deal_group": null,
+      "counterparty": null,
+      "ctpty_deal_group": null,
+      "period_start": "2020-10-01",
+      "period_end": "2020-10-31",
+      "tenor": "Oct20",
+      "trade_type": null,
+      "trade_broker": null,
+      "total_brokerage": 0,
+      "brokerage_currency": "USD",
+      "upload_datetime": "2020-08-06 11:24:50.8830466",
+      "original_deal": null,
+      "output_deal_status": "not entered",
+      "paper_account": null,
+      "output_deal_error": null,
+      "output_deal": null,
+      "profit_group": null,
+      "ctpty_profit_group": null
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
