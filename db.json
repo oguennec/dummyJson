@@ -1,0 +1,152 @@
+{
+  "trades": [
+    {
+      "name": "deal_leg_id",
+      "value": 926639
+    },
+    {
+      "name": "deal_leg_parent_id",
+      "value": null
+    },
+    {
+      "name": "output_id",
+      "value": null
+    },
+    {
+      "name": "output_api_id",
+      "value": null
+    },
+    {
+      "name": "venue",
+      "value": "ICE"
+    },
+    {
+      "name": "venue_platform",
+      "value": "FIX"
+    },
+    {
+      "name": "unique_venue_id",
+      "value": "2020-08-06_1036091_5314706_BUY"
+    },
+    {
+      "name": "source_id",
+      "value": "1036091"
+    },
+    {
+      "name": "source_parent_id",
+      "value": ""
+    },
+    {
+      "name": "trader_id",
+      "value": 3007
+    },
+    {
+      "name": "time_of_trade",
+      "value": "2020-08-06 11:22:50.7862880"
+    },
+    {
+      "name": "is_buy",
+      "value": "true"
+    },
+    {
+      "name": "product_id",
+      "value": "PLACEHOLDER_jdvfofeedr"
+    },
+    {
+      "name": "volume",
+      "value": 50000
+    },
+    {
+      "name": "volume_unit",
+      "value": "BBL"
+    },
+    {
+      "name": "price_per_unit",
+      "value": -1.21
+    },
+    {
+      "name": "price_unit",
+      "value": "BBL"
+    },
+    {
+      "name": "currency",
+      "value": "USD"
+    },
+    {
+      "name": "account",
+      "value": ""
+    },
+    {
+      "name": "deal_group",
+      "value": ""
+    },
+    {
+      "name": "counterparty",
+      "value": ""
+    },
+    {
+      "name": "ctpty_deal_group",
+      "value": ""
+    },
+    {
+      "name": "period_start",
+      "value": "2020-10-01"
+    },
+    {
+      "name": "period_end",
+      "value": "2020-10-31"
+    },
+    {
+      "name": "tenor",
+      "value": "Oct20"
+    },
+    {
+      "name": "trade_type",
+      "value": ""
+    },
+    {
+      "name": "trade_broker",
+      "value": ""
+    },
+    {
+      "name": "total_brokerage",
+      "value": 0
+    },
+    {
+      "name": "brokerage_currency",
+      "value": "USD"
+    },
+    {
+      "name": "upload_datetime",
+      "value": "2020-08-06 11:22:50.8830466"
+    },
+    {
+      "name": "original_deal",
+      "value": ""
+    },
+    {
+      "name": "output_deal_status",
+      "value": "not entered"
+    },
+    {
+      "name": "paper_account",
+      "value": ""
+    },
+    {
+      "name": "output_deal_error",
+      "value": ""
+    },
+    {
+      "name": "output_deal",
+      "value": ""
+    },
+    {
+      "name": "profit_group",
+      "value": ""
+    },
+    {
+      "name": "ctpty_profit_group",
+      "value": ""
+    }
+  ]
+}
