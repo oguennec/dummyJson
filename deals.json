@@ -1,6 +1,6 @@
 [
   {
-    "deal_leg_id": "629936",
+    "deal_leg_id": 629936,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -39,7 +39,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629937",
+    "deal_leg_id": 629937,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -78,7 +78,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629938",
+    "deal_leg_id": 629938,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -117,7 +117,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629940",
+    "deal_leg_id": 629940,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -156,7 +156,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629941",
+    "deal_leg_id": 629941,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -195,7 +195,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629942",
+    "deal_leg_id": 629942,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -234,7 +234,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629950",
+    "deal_leg_id": 629950,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -273,7 +273,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629951",
+    "deal_leg_id": 629951,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -312,7 +312,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629952",
+    "deal_leg_id": 629952,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -351,7 +351,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629953",
+    "deal_leg_id": 629953,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -390,7 +390,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629954",
+    "deal_leg_id": 629954,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -429,7 +429,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629955",
+    "deal_leg_id": 629955,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -468,7 +468,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629956",
+    "deal_leg_id": 629956,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -507,7 +507,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629957",
+    "deal_leg_id": 629957,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -546,7 +546,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629958",
+    "deal_leg_id": 629958,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -585,7 +585,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629959",
+    "deal_leg_id": 629959,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -624,7 +624,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629960",
+    "deal_leg_id": 629960,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -663,7 +663,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629961",
+    "deal_leg_id": 629961,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -702,7 +702,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629962",
+    "deal_leg_id": 629962,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -741,7 +741,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629963",
+    "deal_leg_id": 629963,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -780,7 +780,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629964",
+    "deal_leg_id": 629964,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -819,7 +819,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629965",
+    "deal_leg_id": 629965,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -858,7 +858,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629966",
+    "deal_leg_id": 629966,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -897,7 +897,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629967",
+    "deal_leg_id": 629967,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -936,7 +936,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629968",
+    "deal_leg_id": 629968,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
@@ -975,7 +975,7 @@
     "ctpty_profit_group": null
   },
   {
-    "deal_leg_id": "629969",
+    "deal_leg_id": 629969,
     "deal_leg_parent_id": null,
     "output_id": null,
     "output_api_id": null,
